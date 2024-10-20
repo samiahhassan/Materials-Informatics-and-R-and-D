@@ -6,7 +6,6 @@
 This script automates the extraction of text and tables from PDFs and images, organizing the extracted data into text files for text and CSV files for tables. It utilizes various libraries to handle different formats efficiently and is designed to run on a directory of files, processing each file found and saving the results in a structured way.
 
 ## Prerequisites
-
 Before running the script, ensure you have Python installed on your system. The script has been tested with Python 3.8 and higher.
 
 ## Installation
