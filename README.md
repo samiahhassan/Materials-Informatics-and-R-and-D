@@ -15,8 +15,7 @@ To set up your environment with the necessary dependencies, make sure you have P
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 ## Running the Script
 
 After installing all the necessary packages, you can run the script by following these steps:
