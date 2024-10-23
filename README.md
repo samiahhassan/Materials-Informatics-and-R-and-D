@@ -8,7 +8,13 @@ This script automates the extraction of text and tables from PDFs and images, or
 ## Prerequisites
 Before running the script, ensure you have Python installed on your system. The script has been tested with Python 3.8 and higher.
 
+
 ## Installation
+
+To set up your environment with the necessary dependencies, make sure you have Python and pip installed on your system. Then run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
 
 To run the script, you need to install several dependencies. Here is the step-by-step guide to install all required libraries:
 
