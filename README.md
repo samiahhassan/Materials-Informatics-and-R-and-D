@@ -43,6 +43,7 @@ To run the script, you need to install several dependencies. Here is the step-by
 8. **Tabula** (for extracting tables from PDF files):
    ```bash
    pip install tabula
+   pip install tabula-py
    ```
 9. **Pandas** (for handling data and saving in CSV format):
    ```bash
