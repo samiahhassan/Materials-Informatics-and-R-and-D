@@ -16,53 +16,6 @@ To set up your environment with the necessary dependencies, make sure you have P
 ```bash
 pip install -r requirements.txt
 
-To run the script, you need to install several dependencies. Here is the step-by-step guide to install all required libraries:
-
-1. **OpenCV** (for image processing):
-   ```bash
-   pip install opencv-python
-   ```
-2. **Pillow** (PIL fork, for image manipulation):
-   ```bash
-   pip install pillow
-   ```
-3. **PaddleOCR** (for optical character recognition):
-   ```bash
-   pip install paddleocr
-   ```
-4. **PaddlePaddle** (dependencies for PaddleOCR):
-   ```bash
-   pip install paddlepaddle
-   ```
-5. **NumPy** (ensure version is compatible):
-   ```bash
-   pip install 'numpy<2.0'
-   ```
-6. **Albumentations** (for augmenting images, used in pre-processing):
-   ```bash
-   pip install albumentations
-   ```
-7. **pdfplumber** (for extracting text from PDF files):
-   ```bash
-   pip install pdfplumber
-   ```
-8. **Tabula** (for extracting tables from PDF files):
-   ```bash
-   pip install tabula
-   pip install tabula-py
-   ```
-9. **Pandas** (for handling data and saving in CSV format):
-   ```bash
-   pip install pandas
-   ```
-10. **Premailer** (for converting web content to inline CSS, useful for email processing):
-    ```bash
-    pip install premailer
-    ```
-11. **OpenPyXL** (for handling Excel files, if needed):
-    ```bash
-    pip install openpyxl
-    ```
 
 ## Running the Script
 
