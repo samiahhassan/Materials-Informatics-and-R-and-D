@@ -2,6 +2,8 @@ opencv-python
 pillow
 paddleocr
 paddlepaddle
+paddleclas
+JPype1
 numpy<2.0
 albumentations
 pdfplumber
