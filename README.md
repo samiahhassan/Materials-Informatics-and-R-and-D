@@ -30,4 +30,4 @@ After installing all the necessary packages, you can run the script by following
 
 ## Output
 
-The script will process each file in the directory, extracting text to `.txt` files and tables to `.csv` files. Results will be organized into subfolders for each processed file, located within the directory you ran the script in. For guidance on expected output formats and organization, please refer to the "Extraction.pptx" PowerPoint file included in the directory. This presentation provides a clear example of how output files are structured and named.
+The script will process each file in the directory, extracting text to `.txt` files and tables to `.csv` files. Results will be organized into subfolders for each processed file, located within the directory you ran the script in. For guidance on expected output formats and organization, please refer to the `Extraction.pptx` PowerPoint file included in the directory. This presentation provides a clear example of how output files are structured and named.
